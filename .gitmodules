@@ -1,3 +1,6 @@
 [submodule "4thComputationalInteraction"]
 	path = 4thComputationalInteraction
 	url = https://github.com/wanyuliu/4thComputationalInteraction.git
+[submodule "summerschool2018"]
+	path = summerschool2018
+	url = https://github.com/johnhw/summerschool2018.git
